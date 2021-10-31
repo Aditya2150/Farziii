@@ -1,2 +1,2 @@
-# Farziii
-Hacktober free T-Shirt
+# HACKTOBER REPOSITORY
+For Hacktober Goodies
